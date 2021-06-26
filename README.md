@@ -1,4 +1,6 @@
 # Xray4Magisk
+[中文](https://github.com/Asterisk4Magisk/Xray4Magisk/blob/1.4.5/README_zh_CN.md)
+
 A fork of [V2ray for Android](https://github.com/Magisk-Modules-Repo/v2ray)
 
 This is a Xray module for Magisk, and includes binaries for arm, arm64, x86, x64.
